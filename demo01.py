@@ -16,6 +16,8 @@ print({})               #字典
 # a='aaa'
 # print(len(a))
 
-a="123"
-b="点击奥斯"
-print(len(a)+len(b))
+# a="123"
+# b="点击奥斯"
+# print(len(a)+len(b))
+
+print(111)
