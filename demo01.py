@@ -21,3 +21,5 @@ print({})               #字典
 # print(len(a)+len(b))
 
 print(111)
+
+print(dasddad)
